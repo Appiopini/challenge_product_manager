@@ -2,7 +2,7 @@
 
 ## Oportunidade para pessoa Product Manager na Provi.
 
-A Provi está em busca de pessoa para Product Manager para se juntar ao nosso time e reportar diretamente para heads de área e C-level. Seu trabalho influenciará todo o processo de desenvolvimento e priorização de tarefas e produtos na Provi.
+A Provi está em busca de pessoa Product Manager para se juntar ao nosso time e reportar diretamente para heads de área e C-level. Seu trabalho influenciará todo o processo de desenvolvimento e priorização de tarefas e produtos na Provi.
 
 ## Sobre o challenge
 
