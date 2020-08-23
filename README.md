@@ -14,7 +14,7 @@ Considerando a nossa [plataforma de solicitação de crédito](https://login.pro
 
 - **Desenho de requisito de software**:
 
-  - Uma vez que você tenha desenhado o roadmp da próximas semanas, do ponto de vista de desenvolvimento de software, como você descreveria essas tarefas para o time de desenvolvimento?
+  - Uma vez que você tenha desenhado o roadmap da próximas semanas, do ponto de vista de desenvolvimento de software, como você descreveria essas tarefas para o time de desenvolvimento?
 
 - **Monitoramento de performance e testes A/B**:
 
