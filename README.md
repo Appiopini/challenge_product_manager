@@ -6,7 +6,7 @@ A Provi está em busca de pessoa Product Manager para se juntar ao nosso time e 
 
 ## Sobre o challenge
 
-Considerando a nossa [plataforma de solicitação de crédito](https://login.provi.com.br/digital-house), imagine que você acabou de se tornar a pessoa responsável por esse produto. Partindo do princípio que ele não tem um roadmap definido, nós gostaríamos de saber qual seria a sua abordagem em cada um dos seguintes tópicos:
+Considerando a nossa [plataforma de solicitação de crédito](https://login.provi.com.br/digital-house), imagine que você acabou de se tornar a pessoa responsável por esse produto. A ideia é que você passe pelo fluxo do usuário e faça uma solicitação para conhecer melhor o processo e as telas. Partindo do princípio que o produto não tem um roadmap definido, nós gostaríamos de saber qual seria a sua abordagem em cada um dos seguintes tópicos:
 
 - **Definição de roadmap**:
 
